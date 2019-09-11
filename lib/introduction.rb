@@ -1,4 +1,4 @@
-def Intro(name)
+def introduction(name)
   puts(name)
 end
 
